@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BrainPadV2NewCode
 //
-//  Created by Julian 沙 on 11/26/23.
+//  Created by Julian Burton on 11/26/23.
 //
 
 import SwiftUI

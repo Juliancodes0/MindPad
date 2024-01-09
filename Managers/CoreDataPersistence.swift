@@ -2,7 +2,7 @@
 //  CoreDataPersistence.swift
 //  MindPad
 //
-//  Created by Julian 沙 on 11/27/23.
+//  Created by Julian Burton on 11/27/23.
 //
 
 import Foundation
